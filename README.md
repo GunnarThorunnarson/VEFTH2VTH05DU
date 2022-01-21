@@ -9,7 +9,7 @@
    * Eng ver : I'm new to mushroom hunting. I want to find some places where mushrooms can be found and I need more knowledge about mushrooms for people who have no knowledge of it. (English translate from Google translate)
    * Ice ver : Ég er nýr í sveppaveiðum. Mig langar að finna nokkra staði þar sem sveppi er að finna og mig vantar meiri þekkingu á sveppum fyrir fólk sem hefur enga þekkingu á því. (Íslensku þýður frá Google translate)
 
-   * Tungumál á vefsíða : HTML , CSS , MySQL , PHP , Javascript , Vue.js
+   * Tungumál á vefsíða : HTML , CSS , MySQL , Javascript , Vue.js
 
 ## User Flow
 ![User flow](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/User_Flow.drawio.png)
