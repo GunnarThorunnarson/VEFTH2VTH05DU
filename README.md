@@ -2,9 +2,9 @@
    * Day 20/01/2565 : [Github](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/wiki/Verkefni_1)
 
 ## User Stories
-   * As to : การหาเห็ด
-   * I want : ฉันต้องการหาสถานที่บางแห่งที่สามารถหาเห็ดได้และฉันต้องการความรู้เพิ่มเติมเกี่ยวกับเห็ดสำหรับคนที่ไม่มีความรู้เรื่องเกี่ยวกับเรื่องนี้ 
-   * So that : 
+     * As to : การหาเห็ด
+     * I want : ฉันต้องการหาสถานที่บางแห่งที่สามารถหาเห็ดได้และฉันต้องการความรู้เพิ่มเติมเกี่ยวกับเห็ดสำหรับคนที่ไม่มีความรู้เรื่องเกี่ยวกับเรื่องนี้ 
+     * So that : 
 
    * Eng ver : I'm new to mushroom hunting. I want to find some places where mushrooms can be found and I need more knowledge about mushrooms for people who have no knowledge of it. (English translate from Google translate)
    * Ice ver : Ég er nýr í sveppaveiðum. Mig langar að finna nokkra staði þar sem sveppi er að finna og mig vantar meiri þekkingu á sveppum fyrir fólk sem hefur enga þekkingu á því. (Íslensku þýður frá Google translate)
