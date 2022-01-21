@@ -12,17 +12,17 @@
    * Tungumál á vefsíða : HTML , CSS , MySQL , PHP , Javascript , Vue.js
 
 ## User Flow
-![User flow](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/blob/main/User_Flow.drawio.png)
+![User flow](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/User_Flow.drawio.png)
 
 ## Wireframes
-![Main page](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/blob/main/Main_Page.drawio.png)
-![Menu Bar](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/blob/main/Menu_Bar.drawio.png)
+![Main page](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/Main_Page.drawio.png)
+![Menu Bar](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/Menu_Bar.drawio.png)
 
-![Location Page](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/blob/main/Location_Page.drawio.png)
-![Link Location Page](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/blob/main/Link_Location_Page.drawio.png)
+![Location Page](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/Location_Page.drawio.png)
+![Link Location Page](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/Link_Location_Page.drawio.png)
 
-![Knowledge Page](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/blob/main/Knowledge_Page.drawio.png)
-![Link Knowledge Page](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/blob/main/Link_Knowledge_Page.drawio.png)
+![Knowledge Page](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/Knowledge_Page.drawio.png)
+![Link Knowledge Page](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/Link_Knowledge_Page.drawio.png)
 
-![Blog Page](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/blob/main/Blog_Page.drawio.png)
-![Create Blog Page](https://github.com/PMBenjamin-117/VEFTH2VTH05DU/blob/main/Create_Blog_Page.drawio.png)
+![Blog Page](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/Blog_Page.drawio.png)
+![Create Blog Page](https://github.com/VEFTH2VTH05DU/VEFTH2VTH05DU/blob/main/Create_Blog_Page.drawio.png)
