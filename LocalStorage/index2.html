@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Print localStorage</title>
+</head>
+<body>
+    <p>User Name : <span id="spName"></span></p>
+    <p>Title : <span id="spTitle"></span></p>
+    <p>Text : <span id="spText"></span></p>
+
+    <p><a href="index1.html">Post</a></p>
+</body>
+<script>
+$(document).ready(function(){
+    $("#spName").html( localStorage.getItem("sName"));
+    $("#spTitle").html( localStorage.getItem("sTitle"));
+    $("#spText").html( localStorage.getItem("sText"));
+
+
+    $("#btnClear").click(function(){       
+    localStorage.removeItem("sName");
+    localStorage.removeItem("sTitle");
+
+    window.location.reload();
+    });
+});
+</script>
+</html>
